@@ -1,14 +1,15 @@
 h1 a, h2 a {
-     color: #8B008B;
+     color: #191970;
      font-family: Lobster;
 }
 
 body {
     padding-left: 15px;
+    background-color: #F0F8FF;
 }
 
 .page-header {
-    background-color: #C25100;
+    background-color: #191970;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
